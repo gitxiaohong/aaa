@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+//这是一个新的注释0000
     private Button btn_one;
 
     @Override
